@@ -7,11 +7,11 @@
 import React, { Component } from 'react';
 var Main = require('./App/Components/Main');
 import {
-  AppRegistry,
-  StyleSheet,
-  Text,
-  NavigatorIOS,
-  View
+    AppRegistry,
+    StyleSheet,
+    Text,
+    NavigatorIOS,
+    View
 } from 'react-native';
 
 
